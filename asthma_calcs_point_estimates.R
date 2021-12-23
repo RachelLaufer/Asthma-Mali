@@ -2,7 +2,7 @@
 # Mali Asthma Project
 
 ################################################################################
-# Step 1: load in health outcomes data for base case
+# Step 1: load in health outcomes data for base case and uncertainty analysis
 
 # Step 2: load asthma params
 
@@ -14,6 +14,7 @@
 
 # Step 6: repeat for uncertainty analysis
 
+# Step 7: obtain 95% credible intervals for all calculations
 ################################################################################
 trials <- 10000
 
@@ -21,6 +22,7 @@ library(tidyverse)
 
 # S.1
 HO_df <- (read.csv("Health_Outcomes.csv", header = TRUE, sep = ","))
+HO_u_df <- readRDS(file = "Health_Outcomes_Uncertainty.rds")
 
 # S.2
 source("asthma_params.R")
@@ -79,4 +81,12 @@ att_no <- asth_rsv_att_func(asth_LRTI_no, asth_null_no)
 att_llAb <- asth_rsv_att_func(asth_LRTI_llAb, asth_null_llAb)
 att_llAb_pVax <-asth_rsv_att_func(asth_LRTI_llAb_pVax, asth_null_llAb_pVax)
 
-  
+# S.6
+source("uncertainty_analysis.R")
+
+# S.7
+source("hospitalizations.R")
+source("deaths.R")
+source("credible_intervals.R")
+
+################################################################################

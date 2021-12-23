@@ -12,7 +12,7 @@ CI_func <- function(dist) {
 # out to 6 years
 mort_adj_func <- function(LRTI, U5, U9){
   U5_adj <- LRTI - (LRTI * 2/5 * U5)
-  U6_adj <- U5_adj - (U5_adj * 1/4 * U9)
+  U6_adj <- U5_adj - (U5_adj * 1/5 * U9)
 }
 
 # function to calculate the prevalence of asthma/wheeze among those w/o RSV-LRTI
