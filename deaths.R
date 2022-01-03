@@ -70,3 +70,16 @@ deaths_llAb_pVax_agebin <- cbind(rowSums(deaths_age_llAb_pVax[, 1:6]), rowSums(d
                                 rowSums(deaths_age_llAb_pVax[, 13:18]), rowSums(deaths_age_llAb_pVax[, 19:24]),
                                 rowSums(deaths_age_llAb_pVax[, 25:30]), rowSums(deaths_age_llAb_pVax[, 31:36]))
 colnames(deaths_llAb_pVax_agebin) <- age_cats
+
+# total deaths
+deaths_tot_no <- rowSums(deaths_age_no)
+deaths_tot_llAb <- rowSums(deaths_age_llAb)
+deaths_tot_llAb_pVax <- rowSums(deaths_age_llAb_pVax)
+
+# total deaths percent decrease from status quo
+deaths_pd_tot_llAb <- (deaths_tot_no - deaths_tot_llAb) / deaths_tot_no * 100
+deaths_pd_tot_llAb_pVax <- (deaths_tot_no - deaths_tot_llAb_pVax) / deaths_tot_no * 100
+
+# deaths percent decrease from status quo, with age bins
+deaths_pd_llAb <- (deaths_no_agebin - deaths_llAb_agebin) / deaths_no_agebin * 100
+deaths_pd_llAb_pVax <- (deaths_no_agebin - deaths_llAb_pVax_agebin) / deaths_no_agebin * 100

@@ -72,6 +72,15 @@ LRTI_llAb_pVax_agebin <- cbind(rowSums(LRTI_age_llAb_pVax[, 1:6]), rowSums(LRTI_
                           rowSums(LRTI_age_llAb_pVax[, 25:30]), rowSums(LRTI_age_llAb_pVax[, 31:36]))
 colnames(LRTI_llAb_pVax_agebin) <- age_cats
 
+
+# Total percent decrease from status quo
+LRTI_pd_tot_llAb <- (rowSums(LRTI_no_agebin) - rowSums(LRTI_llAb_agebin)) / rowSums(LRTI_no_agebin) * 100
+LRTI_pd_tot_llAb_pVax <-(rowSums(LRTI_no_agebin) - rowSums(LRTI_llAb_pVax_agebin)) / rowSums(LRTI_no_agebin) * 100
+  
+# Percent decrease from status quo, by age bin
+LRTI_pd_llAb <- (LRTI_no_agebin - LRTI_llAb_agebin) / LRTI_no_agebin * 100
+LRTI_pd_llAb_pVax <- (LRTI_no_agebin - LRTI_llAb_pVax_agebin) / LRTI_no_agebin * 100
+
 # adjust number of LRTI to account for all-cause mortality out to 6 years
 tot_LRTI_no_u <- mort_adj_func(rowSums(LRTI_age_no), U5 = U5_mort, U9 = U9_mort)
 tot_LRTI_llAb_u <- mort_adj_func(rowSums(LRTI_age_llAb), U5 = U5_mort, U9 = U9_mort)
@@ -83,7 +92,7 @@ tot_wo_LRTI_llAb_u <- pop_tot - tot_LRTI_llAb_u
 tot_wo_LRTI_llAb_pVax_u <- pop_tot - tot_LRTI_llAb_pVax_u
 
 # calculate rate/prevalence of asthma among those without RSV-LRTI
-r_asth_norsv_u <- prev_no_rsv_func(prev_tot, pop_tot, rr_w_u, tot_LRTI_no_u, tot_wo_LRTI_no_u)
+r_asth_norsv_u <- prev_no_rsv_func(prev_tot_u, pop_tot, rr_w_u, tot_LRTI_no_u, tot_wo_LRTI_no_u)
 
 # number of asthma cases among those without RSV-LRTI
 asth_wo_LRTI_no_u <- asth_no_rsv_func(tot_wo_LRTI_no_u, r_asth_norsv_u)
@@ -128,3 +137,8 @@ att_llAb_pVax_pr_u <- att_llAb_pVax_u / pop_tot * 10000
 att_llAb_pd_u <- (att_no_u - att_llAb_u) / att_no_u * 100
 att_llAb_pVax_pd_u <- (att_no_u - att_llAb_pVax_u) / att_no_u * 100
 
+# Total recurrent wheeze/ asthma if all RSV-LRTI were prevented
+# equal to the total population * the baseline rate of asthma among those w/o RSV
+all_rsv_prev_u <- asth_no_rsv_func(pop_tot, r_asth_norsv_u)
+all_rsv_prev_pr_u <- all_rsv_prev_u / pop_tot * 10000
+all_rsv_prev_pd_u <- (tot_asth_no_u - all_rsv_prev_u) / tot_asth_no_u * 100

@@ -70,3 +70,18 @@ hosps_llAb_pVax_agebin <- cbind(rowSums(hosps_age_llAb_pVax[, 1:6]), rowSums(hos
                                rowSums(hosps_age_llAb_pVax[, 13:18]), rowSums(hosps_age_llAb_pVax[, 19:24]),
                                rowSums(hosps_age_llAb_pVax[, 25:30]), rowSums(hosps_age_llAb_pVax[, 31:36]))
 colnames(hosps_llAb_pVax_agebin) <- age_cats
+
+# total hosps
+hosps_tot_no <- rowSums(hosps_age_no)
+hosps_tot_llAb <- rowSums(hosps_age_llAb)
+hosps_tot_llAb_pVax <- rowSums(hosps_age_llAb_pVax)
+
+# total hosps percent decrease from status quo
+hosps_pd_tot_llAb <- (hosps_tot_no - hosps_tot_llAb) / hosps_tot_no * 100
+hosps_pd_tot_llAb_pVax <- (hosps_tot_no - hosps_tot_llAb_pVax) / hosps_tot_no * 100
+
+# hosps percent decrease from status quo, with age bins
+hosps_pd_llAb <- (hosps_no_agebin - hosps_llAb_agebin) / hosps_no_agebin * 100
+hosps_pd_llAb_pVax <- (hosps_no_agebin - hosps_llAb_pVax_agebin) / hosps_no_agebin * 100
+
+

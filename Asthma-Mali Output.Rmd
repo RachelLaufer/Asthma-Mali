@@ -28,6 +28,18 @@ RSV-LRTI cases for llAb + pVax
 kable(CI_LRTI_age_llAb_pVax)
 ```
 
+### RSV-LRTI percent decrease compared to status quo through first 3 years
+
+percent decrease for llAb
+```{r LRTI_pd_llAb}
+kable(CI_LRTI_pd_llAb)
+```
+
+percent decrease for llAb + pVax
+```{r LRTI_pd_llAb_pVax}
+kable(CI_LRTI_pd_llAb_pVax)
+```
+
 ## RSV-LRTI hospitalizations through first 3 years
 
 RSV-LRTI hospitalizations for no intervention (status quo)
@@ -43,6 +55,17 @@ kable(CI_hosps_age_llAb)
 RSV-LRTI hospitalizations for llAb + pVax
 ```{r hosps_llAb_pVax}
 kable(CI_hosps_age_llAb_pVax)
+```
+### RSV-LRTI hospitalizations percent decrease compared to status quo through first 3 years
+
+percent decrease for llAb
+```{r hosps_pd_llAb}
+kable(CI_hosps_pd_llAb)
+```
+
+percent decrease for llAb + pVax
+```{r hosps_pd_llAb_pVax}
+kable(CI_hosps_pd_llAb_pVax)
 ```
 
 ## RSV-LRTI deaths through first 3 years
@@ -60,6 +83,18 @@ kable(CI_deaths_age_llAb)
 RSV-LRTI deaths for llAb + pVax
 ```{r deaths_llAb_pVax}
 kable(CI_deaths_age_llAb_pVax)
+```
+
+### RSV-LRTI deaths percent decrease compared to status quo through first 3 years
+
+percent decrease for llAb
+```{r deaths_pd_llAb}
+kable(CI_deaths_pd_llAb)
+```
+
+percent decrease for llAb + pVax
+```{r deaths_pd_llAb_pVax}
+kable(CI_deaths_pd_llAb_pVax)
 ```
 
 ## RSV-attributable and total recurrent wheeze or asthma prevalence at 6 years of age by intervention
@@ -92,4 +127,9 @@ kable(CI_tot_asth_pr_df)
 Total recurrent wheeze/asthma, percent decrease from status quo
 ```{r tot_asth_pd}
 kable(CI_tot_asth_pd_df)
+```
+
+Total recurrent wheeze/asthma "All RSV-LRTI prevented"
+```{r all_rsv}
+kable(CI_all_rsv_df)
 ```
