@@ -1,0 +1,865 @@
+"age","intervention","metric","value"
+1,"status quo","A: RSV cases",9179.37992994897
+2,"status quo","A: RSV cases",13366.4783739265
+3,"status quo","A: RSV cases",33630.8051486379
+4,"status quo","A: RSV cases",33532.2136307361
+5,"status quo","A: RSV cases",58584.5413795625
+6,"status quo","A: RSV cases",49727.8100620238
+7,"status quo","A: RSV cases",46186.9981384402
+8,"status quo","A: RSV cases",41682.1399463698
+9,"status quo","A: RSV cases",39372.8258212082
+10,"status quo","A: RSV cases",35804.8616269206
+11,"status quo","A: RSV cases",32435.7003657722
+12,"status quo","A: RSV cases",29438.2642852609
+13,"status quo","A: RSV cases",25891.2176647518
+14,"status quo","A: RSV cases",22889.3398649791
+15,"status quo","A: RSV cases",19445.9897031119
+16,"status quo","A: RSV cases",16461.1447755487
+17,"status quo","A: RSV cases",13849.3977958643
+18,"status quo","A: RSV cases",12347.1918987851
+19,"status quo","A: RSV cases",11339.7898891615
+20,"status quo","A: RSV cases",10449.6485156284
+21,"status quo","A: RSV cases",10078.7393847478
+22,"status quo","A: RSV cases",9372.33794931934
+23,"status quo","A: RSV cases",8674.09767077282
+24,"status quo","A: RSV cases",8045.24773976486
+25,"status quo","A: RSV cases",7601.45217498244
+26,"status quo","A: RSV cases",6722.40867592283
+27,"status quo","A: RSV cases",5710.67596170528
+28,"status quo","A: RSV cases",4816.52366881752
+29,"status quo","A: RSV cases",4013.37864167027
+30,"status quo","A: RSV cases",3513.7872796177
+31,"status quo","A: RSV cases",3149.53807414907
+32,"status quo","A: RSV cases",2807.53057887597
+33,"status quo","A: RSV cases",2596.36580304841
+34,"status quo","A: RSV cases",2291.53734191924
+35,"status quo","A: RSV cases",1979.44062303444
+36,"status quo","A: RSV cases",1673.589297553
+1,"mAb","A: RSV cases",9179.37992994897
+2,"mAb","A: RSV cases",13366.4783739265
+3,"mAb","A: RSV cases",33630.8051486379
+4,"mAb","A: RSV cases",33532.2136307361
+5,"mAb","A: RSV cases",58584.5413795625
+6,"mAb","A: RSV cases",49727.8100620238
+7,"mAb","A: RSV cases",46186.9981384402
+8,"mAb","A: RSV cases",41682.1399463698
+9,"mAb","A: RSV cases",39372.8258212082
+10,"mAb","A: RSV cases",35804.8616269206
+11,"mAb","A: RSV cases",32435.7003657722
+12,"mAb","A: RSV cases",29438.2642852609
+13,"mAb","A: RSV cases",25891.2176647518
+14,"mAb","A: RSV cases",22889.3398649791
+15,"mAb","A: RSV cases",19445.9897031119
+16,"mAb","A: RSV cases",16461.1447755487
+17,"mAb","A: RSV cases",13849.3977958643
+18,"mAb","A: RSV cases",12347.1918987851
+19,"mAb","A: RSV cases",11339.7898891615
+20,"mAb","A: RSV cases",10449.6485156284
+21,"mAb","A: RSV cases",10078.7393847478
+22,"mAb","A: RSV cases",9372.33794931934
+23,"mAb","A: RSV cases",8674.09767077282
+24,"mAb","A: RSV cases",8045.24773976486
+25,"mAb","A: RSV cases",7601.45217498244
+26,"mAb","A: RSV cases",6722.40867592283
+27,"mAb","A: RSV cases",5710.67596170528
+28,"mAb","A: RSV cases",4816.52366881752
+29,"mAb","A: RSV cases",4013.37864167027
+30,"mAb","A: RSV cases",3513.7872796177
+31,"mAb","A: RSV cases",3149.53807414907
+32,"mAb","A: RSV cases",2807.53057887597
+33,"mAb","A: RSV cases",2596.36580304841
+34,"mAb","A: RSV cases",2291.53734191924
+35,"mAb","A: RSV cases",1979.44062303444
+36,"mAb","A: RSV cases",1673.589297553
+1,"mVax","A: RSV cases",9179.37992994897
+2,"mVax","A: RSV cases",13366.4783739265
+3,"mVax","A: RSV cases",33630.8051486379
+4,"mVax","A: RSV cases",33532.2136307361
+5,"mVax","A: RSV cases",58584.5413795625
+6,"mVax","A: RSV cases",49727.8100620238
+7,"mVax","A: RSV cases",46186.9981384402
+8,"mVax","A: RSV cases",41682.1399463698
+9,"mVax","A: RSV cases",39372.8258212082
+10,"mVax","A: RSV cases",35804.8616269206
+11,"mVax","A: RSV cases",32435.7003657722
+12,"mVax","A: RSV cases",29438.2642852609
+13,"mVax","A: RSV cases",25891.2176647518
+14,"mVax","A: RSV cases",22889.3398649791
+15,"mVax","A: RSV cases",19445.9897031119
+16,"mVax","A: RSV cases",16461.1447755487
+17,"mVax","A: RSV cases",13849.3977958643
+18,"mVax","A: RSV cases",12347.1918987851
+19,"mVax","A: RSV cases",11339.7898891615
+20,"mVax","A: RSV cases",10449.6485156284
+21,"mVax","A: RSV cases",10078.7393847478
+22,"mVax","A: RSV cases",9372.33794931934
+23,"mVax","A: RSV cases",8674.09767077282
+24,"mVax","A: RSV cases",8045.24773976486
+25,"mVax","A: RSV cases",7601.45217498244
+26,"mVax","A: RSV cases",6722.40867592283
+27,"mVax","A: RSV cases",5710.67596170528
+28,"mVax","A: RSV cases",4816.52366881752
+29,"mVax","A: RSV cases",4013.37864167027
+30,"mVax","A: RSV cases",3513.7872796177
+31,"mVax","A: RSV cases",3149.53807414907
+32,"mVax","A: RSV cases",2807.53057887597
+33,"mVax","A: RSV cases",2596.36580304841
+34,"mVax","A: RSV cases",2291.53734191924
+35,"mVax","A: RSV cases",1979.44062303444
+36,"mVax","A: RSV cases",1673.589297553
+1,"pVax 10 & 14 wks","A: RSV cases",9179.37992994897
+2,"pVax 10 & 14 wks","A: RSV cases",13366.4783739265
+3,"pVax 10 & 14 wks","A: RSV cases",33630.8051486379
+4,"pVax 10 & 14 wks","A: RSV cases",33532.2136307361
+5,"pVax 10 & 14 wks","A: RSV cases",58584.5413795625
+6,"pVax 10 & 14 wks","A: RSV cases",49727.8100620238
+7,"pVax 10 & 14 wks","A: RSV cases",46186.9981384402
+8,"pVax 10 & 14 wks","A: RSV cases",41682.1399463698
+9,"pVax 10 & 14 wks","A: RSV cases",39372.8258212082
+10,"pVax 10 & 14 wks","A: RSV cases",35804.8616269206
+11,"pVax 10 & 14 wks","A: RSV cases",32435.7003657722
+12,"pVax 10 & 14 wks","A: RSV cases",29438.2642852609
+13,"pVax 10 & 14 wks","A: RSV cases",25891.2176647518
+14,"pVax 10 & 14 wks","A: RSV cases",22889.3398649791
+15,"pVax 10 & 14 wks","A: RSV cases",19445.9897031119
+16,"pVax 10 & 14 wks","A: RSV cases",16461.1447755487
+17,"pVax 10 & 14 wks","A: RSV cases",13849.3977958643
+18,"pVax 10 & 14 wks","A: RSV cases",12347.1918987851
+19,"pVax 10 & 14 wks","A: RSV cases",11339.7898891615
+20,"pVax 10 & 14 wks","A: RSV cases",10449.6485156284
+21,"pVax 10 & 14 wks","A: RSV cases",10078.7393847478
+22,"pVax 10 & 14 wks","A: RSV cases",9372.33794931934
+23,"pVax 10 & 14 wks","A: RSV cases",8674.09767077282
+24,"pVax 10 & 14 wks","A: RSV cases",8045.24773976486
+25,"pVax 10 & 14 wks","A: RSV cases",7601.45217498244
+26,"pVax 10 & 14 wks","A: RSV cases",6722.40867592283
+27,"pVax 10 & 14 wks","A: RSV cases",5710.67596170528
+28,"pVax 10 & 14 wks","A: RSV cases",4816.52366881752
+29,"pVax 10 & 14 wks","A: RSV cases",4013.37864167027
+30,"pVax 10 & 14 wks","A: RSV cases",3513.7872796177
+31,"pVax 10 & 14 wks","A: RSV cases",3149.53807414907
+32,"pVax 10 & 14 wks","A: RSV cases",2807.53057887597
+33,"pVax 10 & 14 wks","A: RSV cases",2596.36580304841
+34,"pVax 10 & 14 wks","A: RSV cases",2291.53734191924
+35,"pVax 10 & 14 wks","A: RSV cases",1979.44062303444
+36,"pVax 10 & 14 wks","A: RSV cases",1673.589297553
+1,"mAb + pVax 10 & 14 wks","A: RSV cases",9179.37992994897
+2,"mAb + pVax 10 & 14 wks","A: RSV cases",13366.4783739265
+3,"mAb + pVax 10 & 14 wks","A: RSV cases",33630.8051486379
+4,"mAb + pVax 10 & 14 wks","A: RSV cases",33532.2136307361
+5,"mAb + pVax 10 & 14 wks","A: RSV cases",58584.5413795625
+6,"mAb + pVax 10 & 14 wks","A: RSV cases",49727.8100620238
+7,"mAb + pVax 10 & 14 wks","A: RSV cases",46186.9981384402
+8,"mAb + pVax 10 & 14 wks","A: RSV cases",41682.1399463698
+9,"mAb + pVax 10 & 14 wks","A: RSV cases",39372.8258212082
+10,"mAb + pVax 10 & 14 wks","A: RSV cases",35804.8616269206
+11,"mAb + pVax 10 & 14 wks","A: RSV cases",32435.7003657722
+12,"mAb + pVax 10 & 14 wks","A: RSV cases",29438.2642852609
+13,"mAb + pVax 10 & 14 wks","A: RSV cases",25891.2176647518
+14,"mAb + pVax 10 & 14 wks","A: RSV cases",22889.3398649791
+15,"mAb + pVax 10 & 14 wks","A: RSV cases",19445.9897031119
+16,"mAb + pVax 10 & 14 wks","A: RSV cases",16461.1447755487
+17,"mAb + pVax 10 & 14 wks","A: RSV cases",13849.3977958643
+18,"mAb + pVax 10 & 14 wks","A: RSV cases",12347.1918987851
+19,"mAb + pVax 10 & 14 wks","A: RSV cases",11339.7898891615
+20,"mAb + pVax 10 & 14 wks","A: RSV cases",10449.6485156284
+21,"mAb + pVax 10 & 14 wks","A: RSV cases",10078.7393847478
+22,"mAb + pVax 10 & 14 wks","A: RSV cases",9372.33794931934
+23,"mAb + pVax 10 & 14 wks","A: RSV cases",8674.09767077282
+24,"mAb + pVax 10 & 14 wks","A: RSV cases",8045.24773976486
+25,"mAb + pVax 10 & 14 wks","A: RSV cases",7601.45217498244
+26,"mAb + pVax 10 & 14 wks","A: RSV cases",6722.40867592283
+27,"mAb + pVax 10 & 14 wks","A: RSV cases",5710.67596170528
+28,"mAb + pVax 10 & 14 wks","A: RSV cases",4816.52366881752
+29,"mAb + pVax 10 & 14 wks","A: RSV cases",4013.37864167027
+30,"mAb + pVax 10 & 14 wks","A: RSV cases",3513.7872796177
+31,"mAb + pVax 10 & 14 wks","A: RSV cases",3149.53807414907
+32,"mAb + pVax 10 & 14 wks","A: RSV cases",2807.53057887597
+33,"mAb + pVax 10 & 14 wks","A: RSV cases",2596.36580304841
+34,"mAb + pVax 10 & 14 wks","A: RSV cases",2291.53734191924
+35,"mAb + pVax 10 & 14 wks","A: RSV cases",1979.44062303444
+36,"mAb + pVax 10 & 14 wks","A: RSV cases",1673.589297553
+1,"pVax 6 & 7 mos","A: RSV cases",9179.37992994897
+2,"pVax 6 & 7 mos","A: RSV cases",13366.4783739265
+3,"pVax 6 & 7 mos","A: RSV cases",33630.8051486379
+4,"pVax 6 & 7 mos","A: RSV cases",33532.2136307361
+5,"pVax 6 & 7 mos","A: RSV cases",58584.5413795625
+6,"pVax 6 & 7 mos","A: RSV cases",49727.8100620238
+7,"pVax 6 & 7 mos","A: RSV cases",46186.9981384402
+8,"pVax 6 & 7 mos","A: RSV cases",41682.1399463698
+9,"pVax 6 & 7 mos","A: RSV cases",39372.8258212082
+10,"pVax 6 & 7 mos","A: RSV cases",35804.8616269206
+11,"pVax 6 & 7 mos","A: RSV cases",32435.7003657722
+12,"pVax 6 & 7 mos","A: RSV cases",29438.2642852609
+13,"pVax 6 & 7 mos","A: RSV cases",25891.2176647518
+14,"pVax 6 & 7 mos","A: RSV cases",22889.3398649791
+15,"pVax 6 & 7 mos","A: RSV cases",19445.9897031119
+16,"pVax 6 & 7 mos","A: RSV cases",16461.1447755487
+17,"pVax 6 & 7 mos","A: RSV cases",13849.3977958643
+18,"pVax 6 & 7 mos","A: RSV cases",12347.1918987851
+19,"pVax 6 & 7 mos","A: RSV cases",11339.7898891615
+20,"pVax 6 & 7 mos","A: RSV cases",10449.6485156284
+21,"pVax 6 & 7 mos","A: RSV cases",10078.7393847478
+22,"pVax 6 & 7 mos","A: RSV cases",9372.33794931934
+23,"pVax 6 & 7 mos","A: RSV cases",8674.09767077282
+24,"pVax 6 & 7 mos","A: RSV cases",8045.24773976486
+25,"pVax 6 & 7 mos","A: RSV cases",7601.45217498244
+26,"pVax 6 & 7 mos","A: RSV cases",6722.40867592283
+27,"pVax 6 & 7 mos","A: RSV cases",5710.67596170528
+28,"pVax 6 & 7 mos","A: RSV cases",4816.52366881752
+29,"pVax 6 & 7 mos","A: RSV cases",4013.37864167027
+30,"pVax 6 & 7 mos","A: RSV cases",3513.7872796177
+31,"pVax 6 & 7 mos","A: RSV cases",3149.53807414907
+32,"pVax 6 & 7 mos","A: RSV cases",2807.53057887597
+33,"pVax 6 & 7 mos","A: RSV cases",2596.36580304841
+34,"pVax 6 & 7 mos","A: RSV cases",2291.53734191924
+35,"pVax 6 & 7 mos","A: RSV cases",1979.44062303444
+36,"pVax 6 & 7 mos","A: RSV cases",1673.589297553
+1,"status quo","B: LRTI episodes",1116.55735720539
+2,"status quo","B: LRTI episodes",1625.86578638513
+3,"status quo","B: LRTI episodes",4090.76900662302
+4,"status quo","B: LRTI episodes",4078.77657516127
+5,"status quo","B: LRTI episodes",7126.08054084736
+6,"status quo","B: LRTI episodes",6048.76937289747
+7,"status quo","B: LRTI episodes",5618.07365772622
+8,"status quo","B: LRTI episodes",5070.11370880721
+9,"status quo","B: LRTI episodes",4789.21437832684
+10,"status quo","B: LRTI episodes",4355.21592725723
+11,"status quo","B: LRTI episodes",3945.39937946701
+12,"status quo","B: LRTI episodes",3580.79857483876
+13,"status quo","B: LRTI episodes",3149.3444863596
+14,"status quo","B: LRTI episodes",2784.20340184777
+15,"status quo","B: LRTI episodes",2365.36269735494
+16,"status quo","B: LRTI episodes",2002.29344982174
+17,"status quo","B: LRTI episodes",1684.6069255053
+18,"status quo","B: LRTI episodes",1501.88226880506
+19,"status quo","B: LRTI episodes",1379.34434858684
+20,"status quo","B: LRTI episodes",1271.06972577397
+21,"status quo","B: LRTI episodes",1225.95324491144
+22,"status quo","B: LRTI episodes",1140.02829944811
+23,"status quo","B: LRTI episodes",1055.09605717708
+24,"status quo","B: LRTI episodes",978.604287318615
+25,"status quo","B: LRTI episodes",924.622078636281
+26,"status quo","B: LRTI episodes",817.697374171625
+27,"status quo","B: LRTI episodes",694.632677622861
+28,"status quo","B: LRTI episodes",585.870176374974
+29,"status quo","B: LRTI episodes",488.177576677866
+30,"status quo","B: LRTI episodes",427.408503477606
+31,"status quo","B: LRTI episodes",383.102119677619
+32,"status quo","B: LRTI episodes",341.5011631881
+33,"status quo","B: LRTI episodes",315.815595553664
+34,"status quo","B: LRTI episodes",278.737005980429
+35,"status quo","B: LRTI episodes",240.774323284014
+36,"status quo","B: LRTI episodes",203.571314988963
+1,"mAb","B: LRTI episodes",636.165235877182
+2,"mAb","B: LRTI episodes",899.796910538225
+3,"mAb","B: LRTI episodes",2122.89835416728
+4,"mAb","B: LRTI episodes",1977.60837246766
+5,"mAb","B: LRTI episodes",3251.22483644343
+6,"mAb","B: LRTI episodes",6048.76937289747
+7,"mAb","B: LRTI episodes",5618.07365772622
+8,"mAb","B: LRTI episodes",5070.11370880721
+9,"mAb","B: LRTI episodes",4789.21437832684
+10,"mAb","B: LRTI episodes",4355.21592725723
+11,"mAb","B: LRTI episodes",3945.39937946701
+12,"mAb","B: LRTI episodes",3580.79857483876
+13,"mAb","B: LRTI episodes",3149.3444863596
+14,"mAb","B: LRTI episodes",2784.20340184777
+15,"mAb","B: LRTI episodes",2365.36269735494
+16,"mAb","B: LRTI episodes",2002.29344982174
+17,"mAb","B: LRTI episodes",1684.6069255053
+18,"mAb","B: LRTI episodes",1501.88226880506
+19,"mAb","B: LRTI episodes",1379.34434858684
+20,"mAb","B: LRTI episodes",1271.06972577397
+21,"mAb","B: LRTI episodes",1225.95324491144
+22,"mAb","B: LRTI episodes",1140.02829944811
+23,"mAb","B: LRTI episodes",1055.09605717708
+24,"mAb","B: LRTI episodes",978.604287318615
+25,"mAb","B: LRTI episodes",924.622078636281
+26,"mAb","B: LRTI episodes",817.697374171625
+27,"mAb","B: LRTI episodes",694.632677622861
+28,"mAb","B: LRTI episodes",585.870176374974
+29,"mAb","B: LRTI episodes",488.177576677866
+30,"mAb","B: LRTI episodes",427.408503477606
+31,"mAb","B: LRTI episodes",383.102119677619
+32,"mAb","B: LRTI episodes",341.5011631881
+33,"mAb","B: LRTI episodes",315.815595553664
+34,"mAb","B: LRTI episodes",278.737005980429
+35,"mAb","B: LRTI episodes",240.774323284014
+36,"mAb","B: LRTI episodes",203.571314988963
+1,"mVax","B: LRTI episodes",778.128822236437
+2,"mVax","B: LRTI episodes",1133.0658665318
+3,"mVax","B: LRTI episodes",2850.85692071558
+4,"mVax","B: LRTI episodes",2842.49939522989
+5,"mVax","B: LRTI episodes",7126.08054084736
+6,"mVax","B: LRTI episodes",6048.76937289747
+7,"mVax","B: LRTI episodes",5618.07365772622
+8,"mVax","B: LRTI episodes",5070.11370880721
+9,"mVax","B: LRTI episodes",4789.21437832684
+10,"mVax","B: LRTI episodes",4355.21592725723
+11,"mVax","B: LRTI episodes",3945.39937946701
+12,"mVax","B: LRTI episodes",3580.79857483876
+13,"mVax","B: LRTI episodes",3149.3444863596
+14,"mVax","B: LRTI episodes",2784.20340184777
+15,"mVax","B: LRTI episodes",2365.36269735494
+16,"mVax","B: LRTI episodes",2002.29344982174
+17,"mVax","B: LRTI episodes",1684.6069255053
+18,"mVax","B: LRTI episodes",1501.88226880506
+19,"mVax","B: LRTI episodes",1379.34434858684
+20,"mVax","B: LRTI episodes",1271.06972577397
+21,"mVax","B: LRTI episodes",1225.95324491144
+22,"mVax","B: LRTI episodes",1140.02829944811
+23,"mVax","B: LRTI episodes",1055.09605717708
+24,"mVax","B: LRTI episodes",978.604287318615
+25,"mVax","B: LRTI episodes",924.622078636281
+26,"mVax","B: LRTI episodes",817.697374171625
+27,"mVax","B: LRTI episodes",694.632677622861
+28,"mVax","B: LRTI episodes",585.870176374974
+29,"mVax","B: LRTI episodes",488.177576677866
+30,"mVax","B: LRTI episodes",427.408503477606
+31,"mVax","B: LRTI episodes",383.102119677619
+32,"mVax","B: LRTI episodes",341.5011631881
+33,"mVax","B: LRTI episodes",315.815595553664
+34,"mVax","B: LRTI episodes",278.737005980429
+35,"mVax","B: LRTI episodes",240.774323284014
+36,"mVax","B: LRTI episodes",203.571314988963
+1,"pVax 10 & 14 wks","B: LRTI episodes",1116.55735720539
+2,"pVax 10 & 14 wks","B: LRTI episodes",1625.86578638513
+3,"pVax 10 & 14 wks","B: LRTI episodes",4090.76900662302
+4,"pVax 10 & 14 wks","B: LRTI episodes",4078.77657516127
+5,"pVax 10 & 14 wks","B: LRTI episodes",3285.12312933064
+6,"pVax 10 & 14 wks","B: LRTI episodes",2788.48268090573
+7,"pVax 10 & 14 wks","B: LRTI episodes",2589.93195621179
+8,"pVax 10 & 14 wks","B: LRTI episodes",2337.32241976012
+9,"pVax 10 & 14 wks","B: LRTI episodes",2207.82782840867
+10,"pVax 10 & 14 wks","B: LRTI episodes",2007.75454246559
+11,"pVax 10 & 14 wks","B: LRTI episodes",1818.82911393429
+12,"pVax 10 & 14 wks","B: LRTI episodes",1650.74814300067
+13,"pVax 10 & 14 wks","B: LRTI episodes",1451.84780821178
+14,"pVax 10 & 14 wks","B: LRTI episodes",1283.51776825182
+15,"pVax 10 & 14 wks","B: LRTI episodes",1090.43220348063
+16,"pVax 10 & 14 wks","B: LRTI episodes",923.057280367823
+17,"pVax 10 & 14 wks","B: LRTI episodes",1684.6069255053
+18,"pVax 10 & 14 wks","B: LRTI episodes",1501.88226880506
+19,"pVax 10 & 14 wks","B: LRTI episodes",1379.34434858684
+20,"pVax 10 & 14 wks","B: LRTI episodes",1271.06972577397
+21,"pVax 10 & 14 wks","B: LRTI episodes",1225.95324491144
+22,"pVax 10 & 14 wks","B: LRTI episodes",1140.02829944811
+23,"pVax 10 & 14 wks","B: LRTI episodes",1055.09605717708
+24,"pVax 10 & 14 wks","B: LRTI episodes",978.604287318615
+25,"pVax 10 & 14 wks","B: LRTI episodes",924.622078636281
+26,"pVax 10 & 14 wks","B: LRTI episodes",817.697374171625
+27,"pVax 10 & 14 wks","B: LRTI episodes",694.632677622861
+28,"pVax 10 & 14 wks","B: LRTI episodes",585.870176374974
+29,"pVax 10 & 14 wks","B: LRTI episodes",488.177576677866
+30,"pVax 10 & 14 wks","B: LRTI episodes",427.408503477606
+31,"pVax 10 & 14 wks","B: LRTI episodes",383.102119677619
+32,"pVax 10 & 14 wks","B: LRTI episodes",341.5011631881
+33,"pVax 10 & 14 wks","B: LRTI episodes",315.815595553664
+34,"pVax 10 & 14 wks","B: LRTI episodes",278.737005980429
+35,"pVax 10 & 14 wks","B: LRTI episodes",240.774323284014
+36,"pVax 10 & 14 wks","B: LRTI episodes",203.571314988963
+1,"mAb + pVax 10 & 14 wks","B: LRTI episodes",636.165235877182
+2,"mAb + pVax 10 & 14 wks","B: LRTI episodes",899.796910538225
+3,"mAb + pVax 10 & 14 wks","B: LRTI episodes",2122.89835416728
+4,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1977.60837246766
+5,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1498.81464960042
+6,"mAb + pVax 10 & 14 wks","B: LRTI episodes",2788.48268090573
+7,"mAb + pVax 10 & 14 wks","B: LRTI episodes",2589.93195621179
+8,"mAb + pVax 10 & 14 wks","B: LRTI episodes",2337.32241976012
+9,"mAb + pVax 10 & 14 wks","B: LRTI episodes",2207.82782840867
+10,"mAb + pVax 10 & 14 wks","B: LRTI episodes",2007.75454246559
+11,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1818.82911393429
+12,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1650.74814300067
+13,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1451.84780821178
+14,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1283.51776825182
+15,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1090.43220348063
+16,"mAb + pVax 10 & 14 wks","B: LRTI episodes",923.057280367823
+17,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1684.6069255053
+18,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1501.88226880506
+19,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1379.34434858684
+20,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1271.06972577397
+21,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1225.95324491144
+22,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1140.02829944811
+23,"mAb + pVax 10 & 14 wks","B: LRTI episodes",1055.09605717708
+24,"mAb + pVax 10 & 14 wks","B: LRTI episodes",978.604287318615
+25,"mAb + pVax 10 & 14 wks","B: LRTI episodes",924.622078636281
+26,"mAb + pVax 10 & 14 wks","B: LRTI episodes",817.697374171625
+27,"mAb + pVax 10 & 14 wks","B: LRTI episodes",694.632677622861
+28,"mAb + pVax 10 & 14 wks","B: LRTI episodes",585.870176374974
+29,"mAb + pVax 10 & 14 wks","B: LRTI episodes",488.177576677866
+30,"mAb + pVax 10 & 14 wks","B: LRTI episodes",427.408503477606
+31,"mAb + pVax 10 & 14 wks","B: LRTI episodes",383.102119677619
+32,"mAb + pVax 10 & 14 wks","B: LRTI episodes",341.5011631881
+33,"mAb + pVax 10 & 14 wks","B: LRTI episodes",315.815595553664
+34,"mAb + pVax 10 & 14 wks","B: LRTI episodes",278.737005980429
+35,"mAb + pVax 10 & 14 wks","B: LRTI episodes",240.774323284014
+36,"mAb + pVax 10 & 14 wks","B: LRTI episodes",203.571314988963
+1,"pVax 6 & 7 mos","B: LRTI episodes",1116.55735720539
+2,"pVax 6 & 7 mos","B: LRTI episodes",1625.86578638513
+3,"pVax 6 & 7 mos","B: LRTI episodes",4090.76900662302
+4,"pVax 6 & 7 mos","B: LRTI episodes",4078.77657516127
+5,"pVax 6 & 7 mos","B: LRTI episodes",7126.08054084736
+6,"pVax 6 & 7 mos","B: LRTI episodes",6048.76937289747
+7,"pVax 6 & 7 mos","B: LRTI episodes",5618.07365772622
+8,"pVax 6 & 7 mos","B: LRTI episodes",2585.75799149168
+9,"pVax 6 & 7 mos","B: LRTI episodes",2442.49933294669
+10,"pVax 6 & 7 mos","B: LRTI episodes",2221.16012290119
+11,"pVax 6 & 7 mos","B: LRTI episodes",2012.15368352818
+12,"pVax 6 & 7 mos","B: LRTI episodes",1826.20727316777
+13,"pVax 6 & 7 mos","B: LRTI episodes",1606.1656880434
+14,"pVax 6 & 7 mos","B: LRTI episodes",1419.94373494236
+15,"pVax 6 & 7 mos","B: LRTI episodes",1206.33497565102
+16,"pVax 6 & 7 mos","B: LRTI episodes",1021.16965940909
+17,"pVax 6 & 7 mos","B: LRTI episodes",859.149532007703
+18,"pVax 6 & 7 mos","B: LRTI episodes",765.959957090579
+19,"pVax 6 & 7 mos","B: LRTI episodes",703.465617779288
+20,"pVax 6 & 7 mos","B: LRTI episodes",1271.06972577397
+21,"pVax 6 & 7 mos","B: LRTI episodes",1225.95324491144
+22,"pVax 6 & 7 mos","B: LRTI episodes",1140.02829944811
+23,"pVax 6 & 7 mos","B: LRTI episodes",1055.09605717708
+24,"pVax 6 & 7 mos","B: LRTI episodes",978.604287318615
+25,"pVax 6 & 7 mos","B: LRTI episodes",924.622078636281
+26,"pVax 6 & 7 mos","B: LRTI episodes",817.697374171625
+27,"pVax 6 & 7 mos","B: LRTI episodes",694.632677622861
+28,"pVax 6 & 7 mos","B: LRTI episodes",585.870176374974
+29,"pVax 6 & 7 mos","B: LRTI episodes",488.177576677866
+30,"pVax 6 & 7 mos","B: LRTI episodes",427.408503477606
+31,"pVax 6 & 7 mos","B: LRTI episodes",383.102119677619
+32,"pVax 6 & 7 mos","B: LRTI episodes",341.5011631881
+33,"pVax 6 & 7 mos","B: LRTI episodes",315.815595553664
+34,"pVax 6 & 7 mos","B: LRTI episodes",278.737005980429
+35,"pVax 6 & 7 mos","B: LRTI episodes",240.774323284014
+36,"pVax 6 & 7 mos","B: LRTI episodes",203.571314988963
+1,"status quo","C: Hospitalizations",158.655010523836
+2,"status quo","C: Hospitalizations",231.024184995654
+3,"status quo","C: Hospitalizations",581.269735592247
+4,"status quo","C: Hospitalizations",579.565694749659
+5,"status quo","C: Hospitalizations",1012.56632801343
+6,"status quo","C: Hospitalizations",859.487927172175
+7,"status quo","C: Hospitalizations",368.494106611807
+8,"status quo","C: Hospitalizations",332.552959496679
+9,"status quo","C: Hospitalizations",314.128539644001
+10,"status quo","C: Hospitalizations",285.662221606703
+11,"status quo","C: Hospitalizations",258.782014643768
+12,"status quo","C: Hospitalizations",234.86754574273
+13,"status quo","C: Hospitalizations",195.868438289849
+14,"status quo","C: Hospitalizations",173.159073122412
+15,"status quo","C: Hospitalizations",147.109946062304
+16,"status quo","C: Hospitalizations",124.529435478783
+17,"status quo","C: Hospitalizations",104.77143070887
+18,"status quo","C: Hospitalizations",93.4071632240208
+19,"status quo","C: Hospitalizations",85.7861134568765
+20,"status quo","C: Hospitalizations",79.0521466365957
+21,"status quo","C: Hospitalizations",76.2461993399592
+22,"status quo","C: Hospitalizations",70.9022349210344
+23,"status quo","C: Hospitalizations",65.6200100878561
+24,"status quo","C: Hospitalizations",60.8627269233453
+25,"status quo","C: Hospitalizations",52.1615208020779
+26,"status quo","C: Hospitalizations",46.1294831457684
+27,"status quo","C: Hospitalizations",39.1869258811859
+28,"status quo","C: Hospitalizations",33.0512109740802
+29,"status quo","C: Hospitalizations",27.5399921863723
+30,"status quo","C: Hospitalizations",24.1117728640157
+31,"status quo","C: Hospitalizations",21.6122777582354
+32,"status quo","C: Hospitalizations",19.2654063093999
+33,"status quo","C: Hospitalizations",17.8163837287875
+34,"status quo","C: Hospitalizations",15.7246365533484
+35,"status quo","C: Hospitalizations",13.5830142528164
+36,"status quo","C: Hospitalizations",11.4842481342912
+1,"mAb","C: Hospitalizations",90.3946416560367
+2,"mAb","C: Hospitalizations",127.854863334618
+3,"mAb","C: Hospitalizations",301.649045208421
+4,"mAb","C: Hospitalizations",281.00435245994
+5,"mAb","C: Hospitalizations",461.976366294636
+6,"mAb","C: Hospitalizations",859.487927172175
+7,"mAb","C: Hospitalizations",368.494106611807
+8,"mAb","C: Hospitalizations",332.552959496679
+9,"mAb","C: Hospitalizations",314.128539644001
+10,"mAb","C: Hospitalizations",285.662221606703
+11,"mAb","C: Hospitalizations",258.782014643768
+12,"mAb","C: Hospitalizations",234.86754574273
+13,"mAb","C: Hospitalizations",195.868438289849
+14,"mAb","C: Hospitalizations",173.159073122412
+15,"mAb","C: Hospitalizations",147.109946062304
+16,"mAb","C: Hospitalizations",124.529435478783
+17,"mAb","C: Hospitalizations",104.77143070887
+18,"mAb","C: Hospitalizations",93.4071632240208
+19,"mAb","C: Hospitalizations",85.7861134568765
+20,"mAb","C: Hospitalizations",79.0521466365957
+21,"mAb","C: Hospitalizations",76.2461993399592
+22,"mAb","C: Hospitalizations",70.9022349210344
+23,"mAb","C: Hospitalizations",65.6200100878561
+24,"mAb","C: Hospitalizations",60.8627269233453
+25,"mAb","C: Hospitalizations",52.1615208020779
+26,"mAb","C: Hospitalizations",46.1294831457684
+27,"mAb","C: Hospitalizations",39.1869258811859
+28,"mAb","C: Hospitalizations",33.0512109740802
+29,"mAb","C: Hospitalizations",27.5399921863723
+30,"mAb","C: Hospitalizations",24.1117728640157
+31,"mAb","C: Hospitalizations",21.6122777582354
+32,"mAb","C: Hospitalizations",19.2654063093999
+33,"mAb","C: Hospitalizations",17.8163837287875
+34,"mAb","C: Hospitalizations",15.7246365533484
+35,"mAb","C: Hospitalizations",13.5830142528164
+36,"mAb","C: Hospitalizations",11.4842481342912
+1,"mVax","C: Hospitalizations",110.566676834061
+2,"mVax","C: Hospitalizations",161.000754523471
+3,"mVax","C: Hospitalizations",405.086878734237
+4,"mVax","C: Hospitalizations",403.899332671038
+5,"mVax","C: Hospitalizations",1012.56632801343
+6,"mVax","C: Hospitalizations",859.487927172175
+7,"mVax","C: Hospitalizations",368.494106611807
+8,"mVax","C: Hospitalizations",332.552959496679
+9,"mVax","C: Hospitalizations",314.128539644001
+10,"mVax","C: Hospitalizations",285.662221606703
+11,"mVax","C: Hospitalizations",258.782014643768
+12,"mVax","C: Hospitalizations",234.86754574273
+13,"mVax","C: Hospitalizations",195.868438289849
+14,"mVax","C: Hospitalizations",173.159073122412
+15,"mVax","C: Hospitalizations",147.109946062304
+16,"mVax","C: Hospitalizations",124.529435478783
+17,"mVax","C: Hospitalizations",104.77143070887
+18,"mVax","C: Hospitalizations",93.4071632240208
+19,"mVax","C: Hospitalizations",85.7861134568765
+20,"mVax","C: Hospitalizations",79.0521466365957
+21,"mVax","C: Hospitalizations",76.2461993399592
+22,"mVax","C: Hospitalizations",70.9022349210344
+23,"mVax","C: Hospitalizations",65.6200100878561
+24,"mVax","C: Hospitalizations",60.8627269233453
+25,"mVax","C: Hospitalizations",52.1615208020779
+26,"mVax","C: Hospitalizations",46.1294831457684
+27,"mVax","C: Hospitalizations",39.1869258811859
+28,"mVax","C: Hospitalizations",33.0512109740802
+29,"mVax","C: Hospitalizations",27.5399921863723
+30,"mVax","C: Hospitalizations",24.1117728640157
+31,"mVax","C: Hospitalizations",21.6122777582354
+32,"mVax","C: Hospitalizations",19.2654063093999
+33,"mVax","C: Hospitalizations",17.8163837287875
+34,"mVax","C: Hospitalizations",15.7246365533484
+35,"mVax","C: Hospitalizations",13.5830142528164
+36,"mVax","C: Hospitalizations",11.4842481342912
+1,"pVax 10 & 14 wks","C: Hospitalizations",158.655010523836
+2,"pVax 10 & 14 wks","C: Hospitalizations",231.024184995654
+3,"pVax 10 & 14 wks","C: Hospitalizations",581.269735592247
+4,"pVax 10 & 14 wks","C: Hospitalizations",579.565694749659
+5,"pVax 10 & 14 wks","C: Hospitalizations",466.79307721419
+6,"pVax 10 & 14 wks","C: Hospitalizations",396.223934426373
+7,"pVax 10 & 14 wks","C: Hospitalizations",169.875783148043
+8,"pVax 10 & 14 wks","C: Hospitalizations",153.306914327969
+9,"pVax 10 & 14 wks","C: Hospitalizations",144.813256775884
+10,"pVax 10 & 14 wks","C: Hospitalizations",131.69028416069
+11,"pVax 10 & 14 wks","C: Hospitalizations",119.298508750777
+12,"pVax 10 & 14 wks","C: Hospitalizations",108.273938587399
+13,"pVax 10 & 14 wks","C: Hospitalizations",90.2953500516204
+14,"pVax 10 & 14 wks","C: Hospitalizations",79.826332709432
+15,"pVax 10 & 14 wks","C: Hospitalizations",67.8176851347222
+16,"pVax 10 & 14 wks","C: Hospitalizations",57.4080697557189
+17,"pVax 10 & 14 wks","C: Hospitalizations",104.77143070887
+18,"pVax 10 & 14 wks","C: Hospitalizations",93.4071632240208
+19,"pVax 10 & 14 wks","C: Hospitalizations",85.7861134568765
+20,"pVax 10 & 14 wks","C: Hospitalizations",79.0521466365957
+21,"pVax 10 & 14 wks","C: Hospitalizations",76.2461993399592
+22,"pVax 10 & 14 wks","C: Hospitalizations",70.9022349210344
+23,"pVax 10 & 14 wks","C: Hospitalizations",65.6200100878561
+24,"pVax 10 & 14 wks","C: Hospitalizations",60.8627269233453
+25,"pVax 10 & 14 wks","C: Hospitalizations",52.1615208020779
+26,"pVax 10 & 14 wks","C: Hospitalizations",46.1294831457684
+27,"pVax 10 & 14 wks","C: Hospitalizations",39.1869258811859
+28,"pVax 10 & 14 wks","C: Hospitalizations",33.0512109740802
+29,"pVax 10 & 14 wks","C: Hospitalizations",27.5399921863723
+30,"pVax 10 & 14 wks","C: Hospitalizations",24.1117728640157
+31,"pVax 10 & 14 wks","C: Hospitalizations",21.6122777582354
+32,"pVax 10 & 14 wks","C: Hospitalizations",19.2654063093999
+33,"pVax 10 & 14 wks","C: Hospitalizations",17.8163837287875
+34,"pVax 10 & 14 wks","C: Hospitalizations",15.7246365533484
+35,"pVax 10 & 14 wks","C: Hospitalizations",13.5830142528164
+36,"pVax 10 & 14 wks","C: Hospitalizations",11.4842481342912
+1,"mAb + pVax 10 & 14 wks","C: Hospitalizations",90.3946416560367
+2,"mAb + pVax 10 & 14 wks","C: Hospitalizations",127.854863334618
+3,"mAb + pVax 10 & 14 wks","C: Hospitalizations",301.649045208421
+4,"mAb + pVax 10 & 14 wks","C: Hospitalizations",281.00435245994
+5,"mAb + pVax 10 & 14 wks","C: Hospitalizations",212.971104861827
+6,"mAb + pVax 10 & 14 wks","C: Hospitalizations",396.223934426373
+7,"mAb + pVax 10 & 14 wks","C: Hospitalizations",169.875783148043
+8,"mAb + pVax 10 & 14 wks","C: Hospitalizations",153.306914327969
+9,"mAb + pVax 10 & 14 wks","C: Hospitalizations",144.813256775884
+10,"mAb + pVax 10 & 14 wks","C: Hospitalizations",131.69028416069
+11,"mAb + pVax 10 & 14 wks","C: Hospitalizations",119.298508750777
+12,"mAb + pVax 10 & 14 wks","C: Hospitalizations",108.273938587399
+13,"mAb + pVax 10 & 14 wks","C: Hospitalizations",90.2953500516204
+14,"mAb + pVax 10 & 14 wks","C: Hospitalizations",79.826332709432
+15,"mAb + pVax 10 & 14 wks","C: Hospitalizations",67.8176851347222
+16,"mAb + pVax 10 & 14 wks","C: Hospitalizations",57.4080697557189
+17,"mAb + pVax 10 & 14 wks","C: Hospitalizations",104.77143070887
+18,"mAb + pVax 10 & 14 wks","C: Hospitalizations",93.4071632240208
+19,"mAb + pVax 10 & 14 wks","C: Hospitalizations",85.7861134568765
+20,"mAb + pVax 10 & 14 wks","C: Hospitalizations",79.0521466365957
+21,"mAb + pVax 10 & 14 wks","C: Hospitalizations",76.2461993399592
+22,"mAb + pVax 10 & 14 wks","C: Hospitalizations",70.9022349210344
+23,"mAb + pVax 10 & 14 wks","C: Hospitalizations",65.6200100878561
+24,"mAb + pVax 10 & 14 wks","C: Hospitalizations",60.8627269233453
+25,"mAb + pVax 10 & 14 wks","C: Hospitalizations",52.1615208020779
+26,"mAb + pVax 10 & 14 wks","C: Hospitalizations",46.1294831457684
+27,"mAb + pVax 10 & 14 wks","C: Hospitalizations",39.1869258811859
+28,"mAb + pVax 10 & 14 wks","C: Hospitalizations",33.0512109740802
+29,"mAb + pVax 10 & 14 wks","C: Hospitalizations",27.5399921863723
+30,"mAb + pVax 10 & 14 wks","C: Hospitalizations",24.1117728640157
+31,"mAb + pVax 10 & 14 wks","C: Hospitalizations",21.6122777582354
+32,"mAb + pVax 10 & 14 wks","C: Hospitalizations",19.2654063093999
+33,"mAb + pVax 10 & 14 wks","C: Hospitalizations",17.8163837287875
+34,"mAb + pVax 10 & 14 wks","C: Hospitalizations",15.7246365533484
+35,"mAb + pVax 10 & 14 wks","C: Hospitalizations",13.5830142528164
+36,"mAb + pVax 10 & 14 wks","C: Hospitalizations",11.4842481342912
+1,"pVax 6 & 7 mos","C: Hospitalizations",158.655010523836
+2,"pVax 6 & 7 mos","C: Hospitalizations",231.024184995654
+3,"pVax 6 & 7 mos","C: Hospitalizations",581.269735592247
+4,"pVax 6 & 7 mos","C: Hospitalizations",579.565694749659
+5,"pVax 6 & 7 mos","C: Hospitalizations",1012.56632801343
+6,"pVax 6 & 7 mos","C: Hospitalizations",859.487927172175
+7,"pVax 6 & 7 mos","C: Hospitalizations",368.494106611807
+8,"pVax 6 & 7 mos","C: Hospitalizations",169.602009343306
+9,"pVax 6 & 7 mos","C: Hospitalizations",160.20555521844
+10,"pVax 6 & 7 mos","C: Hospitalizations",145.687733019418
+11,"pVax 6 & 7 mos","C: Hospitalizations",131.978827468322
+12,"pVax 6 & 7 mos","C: Hospitalizations",119.782448328792
+13,"pVax 6 & 7 mos","C: Hospitalizations",99.8929035278231
+14,"pVax 6 & 7 mos","C: Hospitalizations",88.3111272924302
+15,"pVax 6 & 7 mos","C: Hospitalizations",75.0260724917751
+16,"pVax 6 & 7 mos","C: Hospitalizations",63.5100120941793
+17,"pVax 6 & 7 mos","C: Hospitalizations",53.4334296615238
+18,"pVax 6 & 7 mos","C: Hospitalizations",47.6376532442506
+19,"pVax 6 & 7 mos","C: Hospitalizations",43.750917863007
+20,"pVax 6 & 7 mos","C: Hospitalizations",79.0521466365957
+21,"pVax 6 & 7 mos","C: Hospitalizations",76.2461993399592
+22,"pVax 6 & 7 mos","C: Hospitalizations",70.9022349210344
+23,"pVax 6 & 7 mos","C: Hospitalizations",65.6200100878561
+24,"pVax 6 & 7 mos","C: Hospitalizations",60.8627269233453
+25,"pVax 6 & 7 mos","C: Hospitalizations",52.1615208020779
+26,"pVax 6 & 7 mos","C: Hospitalizations",46.1294831457684
+27,"pVax 6 & 7 mos","C: Hospitalizations",39.1869258811859
+28,"pVax 6 & 7 mos","C: Hospitalizations",33.0512109740802
+29,"pVax 6 & 7 mos","C: Hospitalizations",27.5399921863723
+30,"pVax 6 & 7 mos","C: Hospitalizations",24.1117728640157
+31,"pVax 6 & 7 mos","C: Hospitalizations",21.6122777582354
+32,"pVax 6 & 7 mos","C: Hospitalizations",19.2654063093999
+33,"pVax 6 & 7 mos","C: Hospitalizations",17.8163837287875
+34,"pVax 6 & 7 mos","C: Hospitalizations",15.7246365533484
+35,"pVax 6 & 7 mos","C: Hospitalizations",13.5830142528164
+36,"pVax 6 & 7 mos","C: Hospitalizations",11.4842481342912
+1,"status quo","D: Deaths",6.42331820738616
+2,"status quo","D: Deaths",6.72395311417372
+3,"status quo","D: Deaths",14.6055320743788
+4,"status quo","D: Deaths",13.2511293700187
+5,"status quo","D: Deaths",21.6030906562385
+6,"status quo","D: Deaths",17.3651342189609
+7,"status quo","D: Deaths",7.11892976408825
+8,"status quo","D: Deaths",6.18518309556098
+9,"status quo","D: Deaths",5.65333717630162
+10,"status quo","D: Deaths",4.99402802089086
+11,"status quo","D: Deaths",4.40837635744979
+12,"status quo","D: Deaths",3.90847677663078
+13,"status quo","D: Deaths",3.19076069535059
+14,"status quo","D: Deaths",2.76618751998056
+15,"status quo","D: Deaths",2.30798993827448
+16,"status quo","D: Deaths",1.92122784988986
+17,"status quo","D: Deaths",1.59129929247924
+18,"status quo","D: Deaths",1.39803876939361
+19,"status quo","D: Deaths",1.26638218311792
+20,"status quo","D: Deaths",1.15188147708346
+21,"status quo","D: Deaths",1.09739103757454
+22,"status quo","D: Deaths",1.00861455907409
+23,"status quo","D: Deaths",0.923147534881854
+24,"status quo","D: Deaths",0.847190267589497
+25,"status quo","D: Deaths",0.718754163006985
+26,"status quo","D: Deaths",0.629503489857301
+27,"status quo","D: Deaths",0.529814725458231
+28,"status quo","D: Deaths",0.44288812270163
+29,"status quo","D: Deaths",0.365883652236942
+30,"status quo","D: Deaths",0.317701295428917
+31,"status quo","D: Deaths",0.28250727150758
+32,"status quo","D: Deaths",0.249900153621068
+33,"status quo","D: Deaths",0.229392598923298
+34,"status quo","D: Deaths",0.201009754290337
+35,"status quo","D: Deaths",0.172428125756377
+36,"status quo","D: Deaths",0.144804768027132
+1,"mAb","D: Deaths",3.65972398654334
+2,"mAb","D: Deaths",3.72121259294662
+3,"mAb","D: Deaths",7.57951865584123
+4,"mAb","D: Deaths",6.42485409629604
+5,"mAb","D: Deaths",9.85626032191177
+6,"mAb","D: Deaths",17.3651342189609
+7,"mAb","D: Deaths",7.11892976408825
+8,"mAb","D: Deaths",6.18518309556098
+9,"mAb","D: Deaths",5.65333717630162
+10,"mAb","D: Deaths",4.99402802089086
+11,"mAb","D: Deaths",4.40837635744979
+12,"mAb","D: Deaths",3.90847677663078
+13,"mAb","D: Deaths",3.19076069535059
+14,"mAb","D: Deaths",2.76618751998056
+15,"mAb","D: Deaths",2.30798993827448
+16,"mAb","D: Deaths",1.92122784988986
+17,"mAb","D: Deaths",1.59129929247924
+18,"mAb","D: Deaths",1.39803876939361
+19,"mAb","D: Deaths",1.26638218311792
+20,"mAb","D: Deaths",1.15188147708346
+21,"mAb","D: Deaths",1.09739103757454
+22,"mAb","D: Deaths",1.00861455907409
+23,"mAb","D: Deaths",0.923147534881854
+24,"mAb","D: Deaths",0.847190267589497
+25,"mAb","D: Deaths",0.718754163006985
+26,"mAb","D: Deaths",0.629503489857301
+27,"mAb","D: Deaths",0.529814725458231
+28,"mAb","D: Deaths",0.44288812270163
+29,"mAb","D: Deaths",0.365883652236942
+30,"mAb","D: Deaths",0.317701295428917
+31,"mAb","D: Deaths",0.28250727150758
+32,"mAb","D: Deaths",0.249900153621068
+33,"mAb","D: Deaths",0.229392598923298
+34,"mAb","D: Deaths",0.201009754290337
+35,"mAb","D: Deaths",0.172428125756377
+36,"mAb","D: Deaths",0.144804768027132
+1,"mVax","D: Deaths",4.47641045872742
+2,"mVax","D: Deaths",4.68592292526767
+3,"mVax","D: Deaths",10.1785953026346
+4,"mVax","D: Deaths",9.23471205796605
+5,"mVax","D: Deaths",21.6030906562385
+6,"mVax","D: Deaths",17.3651342189609
+7,"mVax","D: Deaths",7.11892976408825
+8,"mVax","D: Deaths",6.18518309556098
+9,"mVax","D: Deaths",5.65333717630162
+10,"mVax","D: Deaths",4.99402802089086
+11,"mVax","D: Deaths",4.40837635744979
+12,"mVax","D: Deaths",3.90847677663078
+13,"mVax","D: Deaths",3.19076069535059
+14,"mVax","D: Deaths",2.76618751998056
+15,"mVax","D: Deaths",2.30798993827448
+16,"mVax","D: Deaths",1.92122784988986
+17,"mVax","D: Deaths",1.59129929247924
+18,"mVax","D: Deaths",1.39803876939361
+19,"mVax","D: Deaths",1.26638218311792
+20,"mVax","D: Deaths",1.15188147708346
+21,"mVax","D: Deaths",1.09739103757454
+22,"mVax","D: Deaths",1.00861455907409
+23,"mVax","D: Deaths",0.923147534881854
+24,"mVax","D: Deaths",0.847190267589497
+25,"mVax","D: Deaths",0.718754163006985
+26,"mVax","D: Deaths",0.629503489857301
+27,"mVax","D: Deaths",0.529814725458231
+28,"mVax","D: Deaths",0.44288812270163
+29,"mVax","D: Deaths",0.365883652236942
+30,"mVax","D: Deaths",0.317701295428917
+31,"mVax","D: Deaths",0.28250727150758
+32,"mVax","D: Deaths",0.249900153621068
+33,"mVax","D: Deaths",0.229392598923298
+34,"mVax","D: Deaths",0.201009754290337
+35,"mVax","D: Deaths",0.172428125756377
+36,"mVax","D: Deaths",0.144804768027132
+1,"pVax 10 & 14 wks","D: Deaths",6.42331820738616
+2,"pVax 10 & 14 wks","D: Deaths",6.72395311417372
+3,"pVax 10 & 14 wks","D: Deaths",14.6055320743788
+4,"pVax 10 & 14 wks","D: Deaths",13.2511293700187
+5,"pVax 10 & 14 wks","D: Deaths",9.95902479252593
+6,"pVax 10 & 14 wks","D: Deaths",8.00532687494096
+7,"pVax 10 & 14 wks","D: Deaths",3.28182662124468
+8,"pVax 10 & 14 wks","D: Deaths",2.85136940705361
+9,"pVax 10 & 14 wks","D: Deaths",2.60618843827505
+10,"pVax 10 & 14 wks","D: Deaths",2.30224691763068
+11,"pVax 10 & 14 wks","D: Deaths",2.03226150078435
+12,"pVax 10 & 14 wks","D: Deaths",1.80180779402679
+13,"pVax 10 & 14 wks","D: Deaths",1.47094068055662
+14,"pVax 10 & 14 wks","D: Deaths",1.27521244671104
+15,"pVax 10 & 14 wks","D: Deaths",1.06398336154453
+16,"pVax 10 & 14 wks","D: Deaths",0.885686038799226
+17,"pVax 10 & 14 wks","D: Deaths",1.59129929247924
+18,"pVax 10 & 14 wks","D: Deaths",1.39803876939361
+19,"pVax 10 & 14 wks","D: Deaths",1.26638218311792
+20,"pVax 10 & 14 wks","D: Deaths",1.15188147708346
+21,"pVax 10 & 14 wks","D: Deaths",1.09739103757454
+22,"pVax 10 & 14 wks","D: Deaths",1.00861455907409
+23,"pVax 10 & 14 wks","D: Deaths",0.923147534881854
+24,"pVax 10 & 14 wks","D: Deaths",0.847190267589497
+25,"pVax 10 & 14 wks","D: Deaths",0.718754163006985
+26,"pVax 10 & 14 wks","D: Deaths",0.629503489857301
+27,"pVax 10 & 14 wks","D: Deaths",0.529814725458231
+28,"pVax 10 & 14 wks","D: Deaths",0.44288812270163
+29,"pVax 10 & 14 wks","D: Deaths",0.365883652236942
+30,"pVax 10 & 14 wks","D: Deaths",0.317701295428917
+31,"pVax 10 & 14 wks","D: Deaths",0.28250727150758
+32,"pVax 10 & 14 wks","D: Deaths",0.249900153621068
+33,"pVax 10 & 14 wks","D: Deaths",0.229392598923298
+34,"pVax 10 & 14 wks","D: Deaths",0.201009754290337
+35,"pVax 10 & 14 wks","D: Deaths",0.172428125756377
+36,"pVax 10 & 14 wks","D: Deaths",0.144804768027132
+1,"mAb + pVax 10 & 14 wks","D: Deaths",3.65972398654334
+2,"mAb + pVax 10 & 14 wks","D: Deaths",3.72121259294662
+3,"mAb + pVax 10 & 14 wks","D: Deaths",7.57951865584123
+4,"mAb + pVax 10 & 14 wks","D: Deaths",6.42485409629604
+5,"mAb + pVax 10 & 14 wks","D: Deaths",4.54373600840133
+6,"mAb + pVax 10 & 14 wks","D: Deaths",8.00532687494096
+7,"mAb + pVax 10 & 14 wks","D: Deaths",3.28182662124468
+8,"mAb + pVax 10 & 14 wks","D: Deaths",2.85136940705361
+9,"mAb + pVax 10 & 14 wks","D: Deaths",2.60618843827505
+10,"mAb + pVax 10 & 14 wks","D: Deaths",2.30224691763068
+11,"mAb + pVax 10 & 14 wks","D: Deaths",2.03226150078435
+12,"mAb + pVax 10 & 14 wks","D: Deaths",1.80180779402679
+13,"mAb + pVax 10 & 14 wks","D: Deaths",1.47094068055662
+14,"mAb + pVax 10 & 14 wks","D: Deaths",1.27521244671104
+15,"mAb + pVax 10 & 14 wks","D: Deaths",1.06398336154453
+16,"mAb + pVax 10 & 14 wks","D: Deaths",0.885686038799226
+17,"mAb + pVax 10 & 14 wks","D: Deaths",1.59129929247924
+18,"mAb + pVax 10 & 14 wks","D: Deaths",1.39803876939361
+19,"mAb + pVax 10 & 14 wks","D: Deaths",1.26638218311792
+20,"mAb + pVax 10 & 14 wks","D: Deaths",1.15188147708346
+21,"mAb + pVax 10 & 14 wks","D: Deaths",1.09739103757454
+22,"mAb + pVax 10 & 14 wks","D: Deaths",1.00861455907409
+23,"mAb + pVax 10 & 14 wks","D: Deaths",0.923147534881854
+24,"mAb + pVax 10 & 14 wks","D: Deaths",0.847190267589497
+25,"mAb + pVax 10 & 14 wks","D: Deaths",0.718754163006985
+26,"mAb + pVax 10 & 14 wks","D: Deaths",0.629503489857301
+27,"mAb + pVax 10 & 14 wks","D: Deaths",0.529814725458231
+28,"mAb + pVax 10 & 14 wks","D: Deaths",0.44288812270163
+29,"mAb + pVax 10 & 14 wks","D: Deaths",0.365883652236942
+30,"mAb + pVax 10 & 14 wks","D: Deaths",0.317701295428917
+31,"mAb + pVax 10 & 14 wks","D: Deaths",0.28250727150758
+32,"mAb + pVax 10 & 14 wks","D: Deaths",0.249900153621068
+33,"mAb + pVax 10 & 14 wks","D: Deaths",0.229392598923298
+34,"mAb + pVax 10 & 14 wks","D: Deaths",0.201009754290337
+35,"mAb + pVax 10 & 14 wks","D: Deaths",0.172428125756377
+36,"mAb + pVax 10 & 14 wks","D: Deaths",0.144804768027132
+1,"pVax 6 & 7 mos","D: Deaths",6.42331820738616
+2,"pVax 6 & 7 mos","D: Deaths",6.72395311417372
+3,"pVax 6 & 7 mos","D: Deaths",14.6055320743788
+4,"pVax 6 & 7 mos","D: Deaths",13.2511293700187
+5,"pVax 6 & 7 mos","D: Deaths",21.6030906562385
+6,"pVax 6 & 7 mos","D: Deaths",17.3651342189609
+7,"pVax 6 & 7 mos","D: Deaths",7.11892976408825
+8,"pVax 6 & 7 mos","D: Deaths",3.1544433787361
+9,"pVax 6 & 7 mos","D: Deaths",2.88320195991383
+10,"pVax 6 & 7 mos","D: Deaths",2.54695429065434
+11,"pVax 6 & 7 mos","D: Deaths",2.24827194229939
+12,"pVax 6 & 7 mos","D: Deaths",1.9933231560817
+13,"pVax 6 & 7 mos","D: Deaths",1.6272879546288
+14,"pVax 6 & 7 mos","D: Deaths",1.41075563519009
+15,"pVax 6 & 7 mos","D: Deaths",1.17707486851998
+16,"pVax 6 & 7 mos","D: Deaths",0.979826203443829
+17,"pVax 6 & 7 mos","D: Deaths",0.811562639164412
+18,"pVax 6 & 7 mos","D: Deaths",0.712999772390744
+19,"pVax 6 & 7 mos","D: Deaths",0.645854913390141
+20,"pVax 6 & 7 mos","D: Deaths",1.15188147708346
+21,"pVax 6 & 7 mos","D: Deaths",1.09739103757454
+22,"pVax 6 & 7 mos","D: Deaths",1.00861455907409
+23,"pVax 6 & 7 mos","D: Deaths",0.923147534881854
+24,"pVax 6 & 7 mos","D: Deaths",0.847190267589497
+25,"pVax 6 & 7 mos","D: Deaths",0.718754163006985
+26,"pVax 6 & 7 mos","D: Deaths",0.629503489857301
+27,"pVax 6 & 7 mos","D: Deaths",0.529814725458231
+28,"pVax 6 & 7 mos","D: Deaths",0.44288812270163
+29,"pVax 6 & 7 mos","D: Deaths",0.365883652236942
+30,"pVax 6 & 7 mos","D: Deaths",0.317701295428917
+31,"pVax 6 & 7 mos","D: Deaths",0.28250727150758
+32,"pVax 6 & 7 mos","D: Deaths",0.249900153621068
+33,"pVax 6 & 7 mos","D: Deaths",0.229392598923298
+34,"pVax 6 & 7 mos","D: Deaths",0.201009754290337
+35,"pVax 6 & 7 mos","D: Deaths",0.172428125756377
+36,"pVax 6 & 7 mos","D: Deaths",0.144804768027132

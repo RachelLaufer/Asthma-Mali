@@ -1,7 +1,7 @@
 ---
 title: "Asthma-Mali Output"
 author: "Rachel Laufer"
-date: "12/23/2021"
+date: "`r Sys.Date()`"
 output: pdf_document
 ---
 

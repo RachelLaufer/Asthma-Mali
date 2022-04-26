@@ -21,7 +21,7 @@ trials <- 10000
 library(tidyverse)
 
 # S.1
-HO_df <- (read.csv("Health_Outcomes.csv", header = TRUE, sep = ","))
+HO_df <- (read.csv("Health_Outcomes_Data.csv", header = TRUE, sep = ","))
 HO_u_df <- readRDS(file = "Health_Outcomes_Uncertainty.rds")
 
 # S.2
@@ -32,11 +32,11 @@ source("asthma_funcs.R")
 
 # S.4
 # Extract just LRTI episodes
-LRTI_df <- HO_df%>%filter(metric == "LRTI episodes")
+LRTI_df <- HO_df%>%filter(metric == "B: LRTI episodes")
 
-LRTI_no_df <- LRTI_df%>%filter(intervention == "no intervention")
-LRTI_llAb_df <- LRTI_df%>%filter(intervention == "llAb")
-LRTI_llAb_pVax_df <- LRTI_df%>%filter(intervention == "llAb + pVax")
+LRTI_no_df <- LRTI_df%>%filter(intervention == "status quo")
+LRTI_llAb_df <- LRTI_df%>%filter(intervention == "mAb")
+LRTI_llAb_pVax_df <- LRTI_df%>%filter(intervention == "mAb + pVax 10 & 14 wks")
 
 # S.5
 # adjust number of LRTI to account for all-cause mortality out to 6 years
