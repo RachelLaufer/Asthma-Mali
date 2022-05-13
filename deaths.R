@@ -2,7 +2,7 @@
 
 ################################################################################
 
-# Extract just hospitalizations
+# Extract just deaths
 deaths_u_df <- HO_u_df%>%filter(metric == "Deaths")
 
 deaths_no_u_df <- deaths_u_df%>%filter(strategy == "no intervention")
@@ -83,3 +83,31 @@ deaths_pd_tot_llAb_pVax <- (deaths_tot_no - deaths_tot_llAb_pVax) / deaths_tot_n
 # deaths percent decrease from status quo, with age bins
 deaths_pd_llAb <- (deaths_no_agebin - deaths_llAb_agebin) / deaths_no_agebin * 100
 deaths_pd_llAb_pVax <- (deaths_no_agebin - deaths_llAb_pVax_agebin) / deaths_no_agebin * 100
+
+
+## point estimate calculations
+deaths_df <- HO_df%>%filter(metric == "D: Deaths")
+deaths_no_df <- deaths_df%>%filter(intervention == "status quo")
+deaths_llAb_df <- deaths_df%>%filter(intervention == "mAb")
+deaths_llAb_pVax_df <- deaths_df%>%filter(intervention == "mAb + pVax 10 & 14 wks")
+
+sum(deaths_no_df[1:6,4])
+sum(deaths_no_df[7:12,4])
+sum(deaths_no_df[13:18,4])
+sum(deaths_no_df[19:24,4])
+sum(deaths_no_df[25:30,4])
+sum(deaths_no_df[31:36,4])
+
+sum(deaths_llAb_df[1:6,4])
+sum(deaths_llAb_df[7:12,4])
+sum(deaths_llAb_df[13:18,4])
+sum(deaths_llAb_df[19:24,4])
+sum(deaths_llAb_df[25:30,4])
+sum(deaths_llAb_df[31:36,4])
+
+sum(deaths_llAb_pVax_df[1:6,4])
+sum(deaths_llAb_pVax_df[7:12,4])
+sum(deaths_llAb_pVax_df[13:18,4])
+sum(deaths_llAb_pVax_df[19:24,4])
+sum(deaths_llAb_pVax_df[25:30,4])
+sum(deaths_llAb_pVax_df[31:36,4])

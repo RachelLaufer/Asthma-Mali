@@ -84,4 +84,29 @@ hosps_pd_tot_llAb_pVax <- (hosps_tot_no - hosps_tot_llAb_pVax) / hosps_tot_no * 
 hosps_pd_llAb <- (hosps_no_agebin - hosps_llAb_agebin) / hosps_no_agebin * 100
 hosps_pd_llAb_pVax <- (hosps_no_agebin - hosps_llAb_pVax_agebin) / hosps_no_agebin * 100
 
+## point estimate calculations
+hosps_df <- HO_df%>%filter(metric == "C: Hospitalizations")
+hosps_no_df <- hosps_df%>%filter(intervention == "status quo")
+hosps_llAb_df <- hosps_df%>%filter(intervention == "mAb")
+hosps_llAb_pVax_df <- hosps_df%>%filter(intervention == "mAb + pVax 10 & 14 wks")
 
+sum(hosps_no_df[1:6,4])
+sum(hosps_no_df[7:12,4])
+sum(hosps_no_df[13:18,4])
+sum(hosps_no_df[19:24,4])
+sum(hosps_no_df[25:30,4])
+sum(hosps_no_df[31:36,4])
+
+sum(hosps_llAb_df[1:6,4])
+sum(hosps_llAb_df[7:12,4])
+sum(hosps_llAb_df[13:18,4])
+sum(hosps_llAb_df[19:24,4])
+sum(hosps_llAb_df[25:30,4])
+sum(hosps_llAb_df[31:36,4])
+
+sum(hosps_llAb_pVax_df[1:6,4])
+sum(hosps_llAb_pVax_df[7:12,4])
+sum(hosps_llAb_pVax_df[13:18,4])
+sum(hosps_llAb_pVax_df[19:24,4])
+sum(hosps_llAb_pVax_df[25:30,4])
+sum(hosps_llAb_pVax_df[31:36,4])

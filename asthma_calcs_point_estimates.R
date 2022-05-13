@@ -38,6 +38,28 @@ LRTI_no_df <- LRTI_df%>%filter(intervention == "status quo")
 LRTI_llAb_df <- LRTI_df%>%filter(intervention == "mAb")
 LRTI_llAb_pVax_df <- LRTI_df%>%filter(intervention == "mAb + pVax 10 & 14 wks")
 
+# point estimates in 6-month age bins
+sum(LRTI_no_df[1:6,4])
+sum(LRTI_no_df[7:12,4])
+sum(LRTI_no_df[13:18,4])
+sum(LRTI_no_df[19:24,4])
+sum(LRTI_no_df[25:30,4])
+sum(LRTI_no_df[31:36,4])
+
+sum(LRTI_llAb_df[1:6,4])
+sum(LRTI_llAb_df[7:12,4])
+sum(LRTI_llAb_df[13:18,4])
+sum(LRTI_llAb_df[19:24,4])
+sum(LRTI_llAb_df[25:30,4])
+sum(LRTI_llAb_df[31:36,4])
+
+sum(LRTI_llAb_pVax_df[1:6,4])
+sum(LRTI_llAb_pVax_df[7:12,4])
+sum(LRTI_llAb_pVax_df[13:18,4])
+sum(LRTI_llAb_pVax_df[19:24,4])
+sum(LRTI_llAb_pVax_df[25:30,4])
+sum(LRTI_llAb_pVax_df[31:36,4])
+
 # S.5
 # adjust number of LRTI to account for all-cause mortality out to 6 years
 # LRTI_df[,5] <- mapply(mort_adj_func, LRTI_df$value, MoreArgs = list(U5 = U5_mort, U9 = U9_mort))
