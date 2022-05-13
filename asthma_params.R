@@ -34,3 +34,25 @@ rr_w_sample <- rnorm(trials, log(rr_w), rr_w_sd) # normal dist of log
 rr_w_u <- exp(rr_w_sample) # retransformed uncertainty distribution
 
 
+########
+# MAKE SURE TO COMMENT TIHS OUT, UNLESS RUNNING THIS SECONDARY ANALYSIS
+# As a secondary analysis, we used 5·5% 
+# (severe asthma symptoms in the past 12 months for the African
+# and Eastern Mediterranean Region)
+# prev_tot <- 5.5/100
+#########
+
+########
+# MAKE SURE TO COMMENT TIHS OUT, UNLESS RUNNING THIS SECONDARY ANALYSIS
+# As a secondary analysis, we used 23·2% (highest single center estimate)
+# as the estimate for the overall prevalence of wheeze/asthma
+# prev_tot <- 23.2/100
+#########
+
+#########
+# MAKE SURE TO COMMENT THIS OUT, UNLESS RUNNING THIS SECONDARY ANALYSIS
+# As a secondary analysis, we use the lower bound of the relative risk
+# for recurrent wheeze/asthma RR = 1.23
+# rr_w <- rr_w_l
+#########
+
