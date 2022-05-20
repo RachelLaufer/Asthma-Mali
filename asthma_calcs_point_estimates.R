@@ -103,6 +103,9 @@ att_no <- asth_rsv_att_func(asth_LRTI_no, asth_null_no)
 att_llAb <- asth_rsv_att_func(asth_LRTI_llAb, asth_null_llAb)
 att_llAb_pVax <-asth_rsv_att_func(asth_LRTI_llAb_pVax, asth_null_llAb_pVax)
 
+# total recurrent wheeze/asthma, all RSV LRTI prevented
+asth_all_RSV_prev <- asth_null_no + asth_wo_LRTI_no
+
 # S.6
 source("uncertainty_analysis.R")
 
