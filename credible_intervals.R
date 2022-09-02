@@ -2,20 +2,35 @@
 # Mali Asthma Project Uncertainty Analysis
 
 ################################################################################
-# total RSV-LRTI cases through 3 years of age
-CI_LRTI_tot_no <- CI_func(rowSums(LRTI_age_no))
-CI_LRTI_tot_llAb <- CI_func(rowSums(LRTI_age_llAb))
-CI_LRTI_tot_llAb_pVax <- CI_func(rowSums(LRTI_age_llAb_pVax))
+# # total RSV-LRTI cases through 3 years of age
+# CI_LRTI_tot_no <- CI_func(rowSums(LRTI_age_no))
+# CI_LRTI_tot_llAb <- CI_func(rowSums(LRTI_age_llAb))
+# CI_LRTI_tot_llAb_pVax <- CI_func(rowSums(LRTI_age_llAb_pVax))
+# 
+# # total RSV-LRTI hosps through 3 years of age
+# CI_hosps_tot_no <- CI_func(rowSums(hosps_age_no))
+# CI_hosps_tot_llAb <- CI_func(rowSums(hosps_age_llAb))
+# CI_hosps_tot_llAb_pVax <- CI_func(rowSums(hosps_age_llAb_pVax))
+# 
+# # total RSV-LRTI deaths through 3 years of age
+# CI_deaths_tot_no <- CI_func(rowSums(deaths_age_no))
+# CI_deaths_tot_llAb <- CI_func(rowSums(deaths_age_llAb))
+# CI_deaths_tot_llAb_pVax <- CI_func(rowSums(deaths_age_llAb_pVax))
 
-# total RSV-LRTI hosps through 3 years of age
-CI_hosps_tot_no <- CI_func(rowSums(hosps_age_no))
-CI_hosps_tot_llAb <- CI_func(rowSums(hosps_age_llAb))
-CI_hosps_tot_llAb_pVax <- CI_func(rowSums(hosps_age_llAb_pVax))
+# total RSV-LRTI cases through 2 years of age
+CI_LRTI_tot_no <- CI_func(rowSums(LRTI_age_no[,1:24]))
+CI_LRTI_tot_llAb <- CI_func(rowSums(LRTI_age_llAb[,1:24]))
+CI_LRTI_tot_llAb_pVax <- CI_func(rowSums(LRTI_age_llAb_pVax[,1:24]))
 
-# total RSV-LRTI deaths through 3 years of age
-CI_deaths_tot_no <- CI_func(rowSums(deaths_age_no))
-CI_deaths_tot_llAb <- CI_func(rowSums(deaths_age_llAb))
-CI_deaths_tot_llAb_pVax <- CI_func(rowSums(deaths_age_llAb_pVax))
+# total RSV-LRTI hosps through 2 years of age
+CI_hosps_tot_no <- CI_func(rowSums(hosps_age_no[,1:24]))
+CI_hosps_tot_llAb <- CI_func(rowSums(hosps_age_llAb[,1:24]))
+CI_hosps_tot_llAb_pVax <- CI_func(rowSums(hosps_age_llAb_pVax[,1:24]))
+
+# total RSV-LRTI deaths through 2 years of age
+CI_deaths_tot_no <- CI_func(rowSums(deaths_age_no[,1:24]))
+CI_deaths_tot_llAb <- CI_func(rowSums(deaths_age_llAb[,1:24]))
+CI_deaths_tot_llAb_pVax <- CI_func(rowSums(deaths_age_llAb_pVax[,1:24]))
 
 # RSV-LRTI cases through 3 years of age, with agebins
 CI_LRTI_age_no <- cbind(apply(LRTI_no_agebin, 2 ,CI_func), CI_LRTI_tot_no)
